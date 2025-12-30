@@ -91,3 +91,7 @@ Erreur 404 au lancement du serveur. Lors du premier déploiement sur Tomcat, l'a
 ## 👤 Auteurs
 * **[Mohamed Salah Zahouani + Mohamed Ghassen Zahouani / Groupe 1]**
 * Projet réalisé dans le cadre du module "Services Web REST avec JPA".
+
+## 📄Liens
+* Video :https://drive.google.com/file/d/142FFQHFBrhr7BeRyAY8MCQo0Z1ahQx4q/view
+* Frontend : https://github.com/Mohamed-Ghassen-Zahouani/Projet-SOA.git
